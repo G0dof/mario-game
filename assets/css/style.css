@@ -23,7 +23,7 @@ embed {
 .ground {
     width: 100%;
     height: 100vh;
-    background: url(../img/dirt.jpg) repeat;
+    background: url(../img/dirt.webp) repeat;
     background-size: 100px 100px;
     overflow: hidden;
     animation: ground-animation 0.2s infinite linear;
